@@ -1,2 +1,0 @@
-# go-plateful
-go plateful
